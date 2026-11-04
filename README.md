@@ -15,10 +15,11 @@
 
 我把過去處理過的營運問題，轉成以下獨立開發的開源專案。它們與任職公司的系統分開開發，目前仍在測試與驗收中。
 
-- **[StockPilot 倉管系統](https://github.com/EdChen0321/StockPilot-Warehouse)：** 串起商品入庫、櫃位、出退貨與庫存異動，讓倉管人員查得到貨在哪裡、還能出多少。
-- **[StockPilot 營運系統](https://github.com/EdChen0321/StockPilot-Operations)：** 整理訂單與銷售資料，依來源、商品和 UTM 標記核對營運表現與 KOL 歸屬。
-
-想直接體驗主要操作，可開啟 **[StockPilot 操作展示](https://edchen0321.github.io/StockPilot-Demo/)**。展示使用獨立範例資料，包含倉管入庫與出貨，以及營運訂單、銷售和 KOL 核對。
+| 作品 | 內容 |
+| --- | --- |
+| [StockPilot 倉管系統](https://github.com/EdChen0321/StockPilot-Warehouse) | 串起商品入庫、櫃位、出退貨與庫存異動，讓倉管人員查得到貨在哪裡、還能出多少。 |
+| [StockPilot 營運系統](https://github.com/EdChen0321/StockPilot-Operations) | 整理訂單與銷售資料，依來源、商品和 UTM 標記核對營運表現與 KOL 歸屬。 |
+| [StockPilot 操作展示](https://edchen0321.github.io/StockPilot-Demo/) | 用獨立範例資料體驗倉管入庫、出貨，以及營運訂單、銷售和 KOL 核對。 |
 
 各專案的功能、操作方式與已知限制，請見專案 README。
 
