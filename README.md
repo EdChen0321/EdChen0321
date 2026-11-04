@@ -21,8 +21,6 @@
 | [StockPilot 營運系統](https://github.com/EdChen0321/StockPilot-Operations) | 整理訂單與銷售資料，依來源、商品和 UTM 標記核對營運表現與 KOL 歸屬。 |
 | [StockPilot 操作展示](https://edchen0321.github.io/StockPilot-Demo/) | 用獨立範例資料體驗倉管入庫、出貨，以及營運訂單、銷售和 KOL 核對。 |
 
-各專案的功能、操作方式與已知限制，請見專案 README。
-
 ## 工作方式
 
 1. 觀察現場作業，訪談使用者，釐清真正卡住的步驟。
