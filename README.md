@@ -11,15 +11,14 @@
 - **KOL 合作分析：** 規劃訂單分類與彙整規則，將重複整理報表的作業由 2 小時縮短至 20 分鐘，讓營收、ROAS 與商品組成可用於合作評估。
 - **包裹取貨提醒：** 設計通知時點、內容與測試方式；按月追蹤的未取貨率由約 3.4%–3.5% 降至 0.8%–0.9%。
 
-## 公開作品
+## 公開專案
 
 我把過去處理過的營運問題，轉成以下獨立開發的開源專案。它們與任職公司的系統分開開發，目前仍在測試與驗收中。
 
-| 作品 | 內容 |
-| --- | --- |
-| [StockPilot 倉管系統](https://github.com/EdChen0321/StockPilot-Warehouse) | 串起商品入庫、櫃位、出退貨與庫存異動，讓倉管人員查得到貨在哪裡、還能出多少。 |
-| [StockPilot 營運系統](https://github.com/EdChen0321/StockPilot-Operations) | 整理訂單與銷售資料，依來源、商品和 UTM 標記核對營運表現與 KOL 歸屬。 |
-| [StockPilot 操作展示](https://edchen0321.github.io/StockPilot-Demo/) | 用獨立範例資料體驗倉管入庫、出貨，以及營運訂單、銷售和 KOL 核對。 |
+| 專案 | 內容 | 連結 |
+| --- | --- | --- |
+| StockPilot 倉管系統 | 串起商品入庫、櫃位、出退貨與庫存異動，讓倉管人員查得到貨在哪裡、還能出多少。 | [GitHub](https://github.com/EdChen0321/StockPilot-Warehouse) · [操作展示](https://edchen0321.github.io/StockPilot-Demo/) |
+| StockPilot 營運系統 | 整理訂單與銷售資料，依來源、商品和 UTM 標記核對營運表現與 KOL 歸屬。 | [GitHub](https://github.com/EdChen0321/StockPilot-Operations) · [操作展示](https://edchen0321.github.io/StockPilot-Demo/) |
 
 ## 工作方式
 
