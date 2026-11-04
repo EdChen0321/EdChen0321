@@ -18,6 +18,8 @@
 - **[StockPilot 倉管系統](https://github.com/EdChen0321/StockPilot-Warehouse)：** 串起商品入庫、櫃位、出退貨與庫存異動，讓倉管人員查得到貨在哪裡、還能出多少。
 - **[StockPilot 營運系統](https://github.com/EdChen0321/StockPilot-Operations)：** 整理訂單與銷售資料，依來源、商品和 UTM 標記核對營運表現與 KOL 歸屬。
 
+**[試玩 StockPilot 互動情境 Demo](https://edchen0321.github.io/StockPilot-Demo/)**：選擇倉管或營運視角，判斷刁鑽的例外情境，再看背後的產品規則。使用獨立範例資料，不連接兩個專案的資料庫。
+
 各專案的功能、操作方式與已知限制，請見專案 README。
 
 ## 工作方式
