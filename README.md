@@ -42,6 +42,10 @@
 
 這是一份工作中會用來與使用者、工程師對齊需求的 PRD。我以 StockPilot 出貨流程為例，整理操作步驟、庫存規則、例外處理與驗收條件，呈現如何把現場需求寫成可開發、可驗收的文件。
 
+**[營運與 KOL 分析 PRD｜產品需求文件](https://github.com/EdChen0321/StockPilot-Operations/blob/main/docs/prd/operations-kol.md)**
+
+這份工作中會用到的 PRD，從訂單整理延伸到 KOL 歸檔、商品分析與原單追查，說明如何定義歸屬規則和報表口徑，讓營運與工程師能對齊需求並驗收結果。[操作 KOL Demo](https://edchen0321.github.io/StockPilot-Demo/?mode=operations)
+
 ## 工作方式
 
 **01　前期調查：釐清問題與優先順序**
