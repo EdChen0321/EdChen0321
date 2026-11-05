@@ -36,6 +36,12 @@
 | StockPilot 倉管系統 | 串起商品入庫、櫃位、出退貨與庫存異動，讓倉管人員查得到貨在哪裡、還能出多少。 | [GitHub](https://github.com/EdChen0321/StockPilot-Warehouse) · [操作展示](https://edchen0321.github.io/StockPilot-Demo/) |
 | StockPilot 營運系統 | 整理訂單與銷售資料，依來源、商品和 UTM 標記核對營運表現與 KOL 歸屬。 | [GitHub](https://github.com/EdChen0321/StockPilot-Operations) · [操作展示](https://edchen0321.github.io/StockPilot-Demo/) |
 
+## 產品文件
+
+**[出貨管理 PRD｜產品需求文件](https://github.com/EdChen0321/StockPilot-Warehouse/blob/main/docs/prd/11-shipments.md)**
+
+這是一份工作中會用來與使用者、工程師對齊需求的 PRD。我以 StockPilot 出貨流程為例，整理操作步驟、庫存規則、例外處理與驗收條件，呈現如何把現場需求寫成可開發、可驗收的文件。
+
 ## 工作方式
 
 **01　前期調查：釐清問題與優先順序**
