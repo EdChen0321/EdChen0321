@@ -2,8 +2,6 @@
 
 產品經理｜電商營運與內部系統規劃
 
-我有約五年半的電商營運與產品規劃經驗。從 App 營運與客服開始，後來負責電商商品管理，並與倉管、營運人員及工程師合作，把訂單、庫存和出貨流程中的問題轉成可開發、可驗收的功能。
-
 曾任菜鳥娛樂有限公司電商營運／產品經理（2021.02–2026.07）。目前尋找產品經理機會。
 
 ## 工作成果
@@ -26,10 +24,10 @@
 | StockPilot 倉管系統 | 出貨操作流程、出貨單狀態、庫存異動、例外處理與驗收條件。 | [程式庫](https://github.com/EdChen0321/StockPilot-Warehouse) · [操作展示](https://edchen0321.github.io/StockPilot-Demo/) · [出貨管理 PRD](https://github.com/EdChen0321/StockPilot-Warehouse/blob/main/docs/prd/11-shipments.md) |
 | StockPilot 營運系統 | 合作單位的訂單歸屬、資料彙整及銷售成效查詢流程。 | [程式庫](https://github.com/EdChen0321/StockPilot-Operations) · [操作展示](https://edchen0321.github.io/StockPilot-Demo/?mode=operations) · [營運與 KOL 分析 PRD](https://github.com/EdChen0321/StockPilot-Operations/blob/main/docs/prd/operations-kol.md) |
 
-## 工作方式
+## 專長
 
-- 需求與優先順序：訪談使用者並梳理流程，依需求必要性、使用頻率及現有替代方案安排開發順序。
-- 原型與驗收：用互動原型與操作人員確認業務規則，撰寫 PRD，和工程師對齊例外處理與驗收條件。
-- 上線與成效追蹤：比對作業時間、銷售資料或未取貨率，確認功能上線後的改善情況。
+- 產品規劃與功能取捨：訪談使用者、梳理作業流程，依需求必要性、使用頻率與替代方案安排開發順序。透過互動原型確認需求、撰寫 PRD，並與工程師協作驗收。
+- 數據分析與成效追蹤：分析流量、銷售與成本變化，找出營運問題，並在功能上線後追蹤作業時間、未取貨率等指標。
+- AI 輔助工具開發：定義資料清理、訂單排除與查詢規則，以 OpenAI Codex 輔助製作銷售資料查詢工具，並與既有系統核對結果。
 
 國立中山大學海洋學系（2016–2020）｜Google Analytics 個人認證｜TOEIC 770
